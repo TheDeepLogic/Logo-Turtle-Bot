@@ -1,0 +1,912 @@
+shiftxy (-32,32)
+shiftxy (0,20)
+pd
+shiftxy (0,25)
+pu
+shiftxy (0,41)
+pd
+shiftxy (0,46)
+pu
+shiftxy (-32,31)
+shiftxy (1,16)
+pd
+shiftxy (1,29)
+pu
+shiftxy (1,37)
+pd
+shiftxy (1,51)
+pu
+shiftxy (-32,30)
+shiftxy (2,14)
+pd
+shiftxy (2,31)
+pu
+shiftxy (2,35)
+pd
+shiftxy (2,53)
+pu
+shiftxy (-32,29)
+shiftxy (3,13)
+pd
+shiftxy (3,54)
+pu
+shiftxy (-32,28)
+shiftxy (4,12)
+pd
+shiftxy (4,54)
+pu
+shiftxy (-32,27)
+shiftxy (5,11)
+pd
+shiftxy (5,17)
+pu
+shiftxy (5,28)
+pd
+shiftxy (5,38)
+pu
+shiftxy (5,49)
+pd
+shiftxy (5,55)
+pu
+shiftxy (-32,26)
+shiftxy (6,11)
+pd
+shiftxy (6,15)
+pu
+shiftxy (6,30)
+pd
+shiftxy (6,36)
+pu
+shiftxy (6,51)
+pd
+shiftxy (6,55)
+pu
+shiftxy (-32,25)
+shiftxy (7,11)
+pd
+shiftxy (7,15)
+pu
+shiftxy (7,31)
+pd
+shiftxy (7,36)
+pu
+shiftxy (7,51)
+pd
+shiftxy (7,55)
+pu
+shiftxy (-32,24)
+shiftxy (8,11)
+pd
+shiftxy (8,15)
+pu
+shiftxy (8,20)
+pd
+shiftxy (8,22)
+pu
+shiftxy (8,31)
+pd
+shiftxy (8,35)
+pu
+shiftxy (8,44)
+pd
+shiftxy (8,47)
+pu
+shiftxy (8,51)
+pd
+shiftxy (8,55)
+pu
+shiftxy (-32,23)
+shiftxy (9,11)
+pd
+shiftxy (9,16)
+pu
+shiftxy (9,21)
+pd
+shiftxy (9,24)
+pu
+shiftxy (9,32)
+pd
+shiftxy (9,35)
+pu
+shiftxy (9,42)
+pd
+shiftxy (9,46)
+pu
+shiftxy (9,51)
+pd
+shiftxy (9,55)
+pu
+shiftxy (-32,22)
+shiftxy (10,11)
+pd
+shiftxy (10,15)
+pu
+shiftxy (10,22)
+pd
+shiftxy (10,26)
+pu
+shiftxy (10,32)
+pd
+shiftxy (10,34)
+pu
+shiftxy (10,40)
+pd
+shiftxy (10,44)
+pu
+shiftxy (10,51)
+pd
+shiftxy (10,55)
+pu
+shiftxy (-32,21)
+shiftxy (11,11)
+pd
+shiftxy (11,16)
+pu
+shiftxy (11,24)
+pd
+shiftxy (11,27)
+pu
+shiftxy (11,32)
+pd
+shiftxy (11,34)
+pu
+shiftxy (11,39)
+pd
+shiftxy (11,42)
+pu
+shiftxy (11,50)
+pd
+shiftxy (11,55)
+pu
+shiftxy (-32,20)
+shiftxy (12,12)
+pd
+shiftxy (12,16)
+pu
+shiftxy (12,26)
+pd
+shiftxy (12,29)
+pu
+shiftxy (12,32)
+pd
+shiftxy (12,35)
+pu
+shiftxy (12,38)
+pd
+shiftxy (12,40)
+pu
+shiftxy (12,50)
+pd
+shiftxy (12,55)
+pu
+shiftxy (-32,19)
+shiftxy (13,12)
+pd
+shiftxy (13,17)
+pu
+shiftxy (13,27)
+pd
+shiftxy (13,30)
+pu
+shiftxy (13,31)
+pd
+shiftxy (13,36)
+pu
+shiftxy (13,37)
+pd
+shiftxy (13,39)
+pu
+shiftxy (13,49)
+pd
+shiftxy (13,54)
+pu
+shiftxy (-32,18)
+shiftxy (14,13)
+pd
+shiftxy (14,18)
+pu
+shiftxy (14,29)
+pd
+shiftxy (14,37)
+pu
+shiftxy (14,49)
+pd
+shiftxy (14,54)
+pu
+shiftxy (-32,17)
+shiftxy (15,13)
+pd
+shiftxy (15,19)
+pu
+shiftxy (15,29)
+pd
+shiftxy (15,37)
+pu
+shiftxy (15,48)
+pd
+shiftxy (15,53)
+pu
+shiftxy (-32,16)
+shiftxy (16,14)
+pd
+shiftxy (16,20)
+pu
+shiftxy (16,28)
+pd
+shiftxy (16,38)
+pu
+shiftxy (16,46)
+pd
+shiftxy (16,53)
+pu
+shiftxy (-32,15)
+shiftxy (17,14)
+pd
+shiftxy (17,22)
+pu
+shiftxy (17,27)
+pd
+shiftxy (17,39)
+pu
+shiftxy (17,44)
+pd
+shiftxy (17,52)
+pu
+shiftxy (-32,14)
+shiftxy (18,15)
+pd
+shiftxy (18,51)
+pu
+shiftxy (-32,13)
+shiftxy (19,15)
+pd
+shiftxy (19,29)
+pu
+shiftxy (19,36)
+pd
+shiftxy (19,50)
+pu
+shiftxy (-32,12)
+shiftxy (20,15)
+pd
+shiftxy (20,21)
+pu
+shiftxy (20,26)
+pd
+shiftxy (20,28)
+pu
+shiftxy (20,37)
+pd
+shiftxy (20,39)
+pu
+shiftxy (20,44)
+pd
+shiftxy (20,50)
+pu
+shiftxy (-32,11)
+shiftxy (21,14)
+pd
+shiftxy (21,19)
+pu
+shiftxy (21,25)
+pd
+shiftxy (21,27)
+pu
+shiftxy (21,38)
+pd
+shiftxy (21,40)
+pu
+shiftxy (21,46)
+pd
+shiftxy (21,51)
+pu
+shiftxy (-32,10)
+shiftxy (22,14)
+pd
+shiftxy (22,18)
+pu
+shiftxy (22,24)
+pd
+shiftxy (22,27)
+pu
+shiftxy (22,39)
+pd
+shiftxy (22,41)
+pu
+shiftxy (22,47)
+pd
+shiftxy (22,51)
+pu
+shiftxy (-32,9)
+shiftxy (23,13)
+pd
+shiftxy (23,18)
+pu
+shiftxy (23,23)
+pd
+shiftxy (23,28)
+pu
+shiftxy (23,38)
+pd
+shiftxy (23,42)
+pu
+shiftxy (23,47)
+pd
+shiftxy (23,52)
+pu
+shiftxy (-32,8)
+shiftxy (24,13)
+pd
+shiftxy (24,17)
+pu
+shiftxy (24,22)
+pd
+shiftxy (24,29)
+pu
+shiftxy (24,37)
+pd
+shiftxy (24,43)
+pu
+shiftxy (24,48)
+pd
+shiftxy (24,52)
+pu
+shiftxy (-32,7)
+shiftxy (25,13)
+pd
+shiftxy (25,17)
+pu
+shiftxy (25,21)
+pd
+shiftxy (25,38)
+pu
+shiftxy (25,40)
+pd
+shiftxy (25,44)
+pu
+shiftxy (25,48)
+pd
+shiftxy (25,52)
+pu
+shiftxy (-32,6)
+shiftxy (26,12)
+pd
+shiftxy (26,17)
+pu
+shiftxy (26,20)
+pd
+shiftxy (26,24)
+pu
+shiftxy (26,29)
+pd
+shiftxy (26,36)
+pu
+shiftxy (26,43)
+pd
+shiftxy (26,46)
+pu
+shiftxy (26,48)
+pd
+shiftxy (26,53)
+pu
+shiftxy (-32,5)
+shiftxy (27,11)
+pd
+shiftxy (27,17)
+pu
+shiftxy (27,18)
+pd
+shiftxy (27,22)
+pu
+shiftxy (27,30)
+pd
+shiftxy (27,35)
+pu
+shiftxy (27,44)
+pd
+shiftxy (27,47)
+pu
+shiftxy (27,48)
+pd
+shiftxy (27,54)
+pu
+shiftxy (-32,4)
+shiftxy (28,11)
+pd
+shiftxy (28,21)
+pu
+shiftxy (28,31)
+pd
+shiftxy (28,35)
+pu
+shiftxy (28,45)
+pd
+shiftxy (28,54)
+pu
+shiftxy (-32,3)
+shiftxy (29,10)
+pd
+shiftxy (29,15)
+pu
+shiftxy (29,17)
+pd
+shiftxy (29,21)
+pu
+shiftxy (29,31)
+pd
+shiftxy (29,34)
+pu
+shiftxy (29,45)
+pd
+shiftxy (29,48)
+pu
+shiftxy (29,50)
+pd
+shiftxy (29,55)
+pu
+shiftxy (-32,2)
+shiftxy (30,9)
+pd
+shiftxy (30,14)
+pu
+shiftxy (30,17)
+pd
+shiftxy (30,20)
+pu
+shiftxy (30,31)
+pd
+shiftxy (30,34)
+pu
+shiftxy (30,46)
+pd
+shiftxy (30,48)
+pu
+shiftxy (30,51)
+pd
+shiftxy (30,56)
+pu
+shiftxy (-32,1)
+shiftxy (31,9)
+pd
+shiftxy (31,13)
+pu
+shiftxy (31,17)
+pd
+shiftxy (31,20)
+pu
+shiftxy (31,31)
+pd
+shiftxy (31,34)
+pu
+shiftxy (31,46)
+pd
+shiftxy (31,48)
+pu
+shiftxy (31,52)
+pd
+shiftxy (31,56)
+pu
+shiftxy (-32,0)
+shiftxy (32,9)
+pd
+shiftxy (32,13)
+pu
+shiftxy (32,17)
+pd
+shiftxy (32,20)
+pu
+shiftxy (32,31)
+pd
+shiftxy (32,34)
+pu
+shiftxy (32,46)
+pd
+shiftxy (32,48)
+pu
+shiftxy (32,52)
+pd
+shiftxy (32,56)
+pu
+shiftxy (-32,-1)
+shiftxy (33,9)
+pd
+shiftxy (33,13)
+pu
+shiftxy (33,17)
+pd
+shiftxy (33,19)
+pu
+shiftxy (33,31)
+pd
+shiftxy (33,35)
+pu
+shiftxy (33,46)
+pd
+shiftxy (33,48)
+pu
+shiftxy (33,52)
+pd
+shiftxy (33,56)
+pu
+shiftxy (-32,-2)
+shiftxy (34,8)
+pd
+shiftxy (34,13)
+pu
+shiftxy (34,17)
+pd
+shiftxy (34,20)
+pu
+shiftxy (34,31)
+pd
+shiftxy (34,35)
+pu
+shiftxy (34,46)
+pd
+shiftxy (34,48)
+pu
+shiftxy (34,53)
+pd
+shiftxy (34,57)
+pu
+shiftxy (-32,-3)
+shiftxy (35,8)
+pd
+shiftxy (35,12)
+pu
+shiftxy (35,17)
+pd
+shiftxy (35,20)
+pu
+shiftxy (35,30)
+pd
+shiftxy (35,36)
+pu
+shiftxy (35,46)
+pd
+shiftxy (35,48)
+pu
+shiftxy (35,53)
+pd
+shiftxy (35,57)
+pu
+shiftxy (-32,-4)
+shiftxy (36,9)
+pd
+shiftxy (36,13)
+pu
+shiftxy (36,17)
+pd
+shiftxy (36,20)
+pu
+shiftxy (36,29)
+pd
+shiftxy (36,37)
+pu
+shiftxy (36,45)
+pd
+shiftxy (36,48)
+pu
+shiftxy (36,52)
+pd
+shiftxy (36,57)
+pu
+shiftxy (-32,-5)
+shiftxy (37,9)
+pd
+shiftxy (37,13)
+pu
+shiftxy (37,17)
+pd
+shiftxy (37,21)
+pu
+shiftxy (37,28)
+pd
+shiftxy (37,31)
+pu
+shiftxy (37,35)
+pd
+shiftxy (37,39)
+pu
+shiftxy (37,44)
+pd
+shiftxy (37,48)
+pu
+shiftxy (37,52)
+pd
+shiftxy (37,56)
+pu
+shiftxy (-32,-6)
+shiftxy (38,9)
+pd
+shiftxy (38,13)
+pu
+shiftxy (38,16)
+pd
+shiftxy (38,23)
+pu
+shiftxy (38,26)
+pd
+shiftxy (38,29)
+pu
+shiftxy (38,37)
+pd
+shiftxy (38,49)
+pu
+shiftxy (38,52)
+pd
+shiftxy (38,56)
+pu
+shiftxy (-32,-7)
+shiftxy (39,9)
+pd
+shiftxy (39,14)
+pu
+shiftxy (39,16)
+pd
+shiftxy (39,28)
+pu
+shiftxy (39,38)
+pd
+shiftxy (39,49)
+pu
+shiftxy (39,51)
+pd
+shiftxy (39,56)
+pu
+shiftxy (-32,-8)
+shiftxy (40,10)
+pd
+shiftxy (40,18)
+pu
+shiftxy (40,19)
+pd
+shiftxy (40,27)
+pu
+shiftxy (40,38)
+pd
+shiftxy (40,45)
+pu
+shiftxy (40,49)
+pd
+shiftxy (40,55)
+pu
+shiftxy (-32,-9)
+shiftxy (41,11)
+pd
+shiftxy (41,16)
+pu
+shiftxy (41,21)
+pd
+shiftxy (41,27)
+pu
+shiftxy (41,39)
+pd
+shiftxy (41,44)
+pu
+shiftxy (41,49)
+pd
+shiftxy (41,55)
+pu
+shiftxy (-32,-10)
+shiftxy (42,11)
+pd
+shiftxy (42,16)
+pu
+shiftxy (42,22)
+pd
+shiftxy (42,26)
+pu
+shiftxy (42,39)
+pd
+shiftxy (42,43)
+pu
+shiftxy (42,49)
+pd
+shiftxy (42,54)
+pu
+shiftxy (-32,-11)
+shiftxy (43,12)
+pd
+shiftxy (43,16)
+pu
+shiftxy (43,23)
+pd
+shiftxy (43,26)
+pu
+shiftxy (43,39)
+pd
+shiftxy (43,42)
+pu
+shiftxy (43,50)
+pd
+shiftxy (43,54)
+pu
+shiftxy (-32,-12)
+shiftxy (44,12)
+pd
+shiftxy (44,16)
+pu
+shiftxy (44,24)
+pd
+shiftxy (44,27)
+pu
+shiftxy (44,39)
+pd
+shiftxy (44,41)
+pu
+shiftxy (44,50)
+pd
+shiftxy (44,54)
+pu
+shiftxy (-32,-13)
+shiftxy (45,12)
+pd
+shiftxy (45,16)
+pu
+shiftxy (45,25)
+pd
+shiftxy (45,27)
+pu
+shiftxy (45,38)
+pd
+shiftxy (45,41)
+pu
+shiftxy (45,49)
+pd
+shiftxy (45,54)
+pu
+shiftxy (-32,-14)
+shiftxy (46,12)
+pd
+shiftxy (46,17)
+pu
+shiftxy (46,25)
+pd
+shiftxy (46,28)
+pu
+shiftxy (46,38)
+pd
+shiftxy (46,40)
+pu
+shiftxy (46,49)
+pd
+shiftxy (46,53)
+pu
+shiftxy (-32,-15)
+shiftxy (47,13)
+pd
+shiftxy (47,17)
+pu
+shiftxy (47,25)
+pd
+shiftxy (47,29)
+pu
+shiftxy (47,37)
+pd
+shiftxy (47,40)
+pu
+shiftxy (47,49)
+pd
+shiftxy (47,53)
+pu
+shiftxy (-32,-16)
+shiftxy (48,13)
+pd
+shiftxy (48,18)
+pu
+shiftxy (48,25)
+pd
+shiftxy (48,31)
+pu
+shiftxy (48,35)
+pd
+shiftxy (48,40)
+pu
+shiftxy (48,48)
+pd
+shiftxy (48,53)
+pu
+shiftxy (-32,-17)
+shiftxy (49,13)
+pd
+shiftxy (49,19)
+pu
+shiftxy (49,25)
+pd
+shiftxy (49,40)
+pu
+shiftxy (49,47)
+pd
+shiftxy (49,52)
+pu
+shiftxy (-32,-18)
+shiftxy (50,14)
+pd
+shiftxy (50,20)
+pu
+shiftxy (50,25)
+pd
+shiftxy (50,40)
+pu
+shiftxy (50,46)
+pd
+shiftxy (50,52)
+pu
+shiftxy (-32,-19)
+shiftxy (51,15)
+pd
+shiftxy (51,30)
+pu
+shiftxy (51,36)
+pd
+shiftxy (51,51)
+pu
+shiftxy (-32,-20)
+shiftxy (52,16)
+pd
+shiftxy (52,27)
+pu
+shiftxy (52,39)
+pd
+shiftxy (52,50)
+pu
+shiftxy (-32,-21)
+shiftxy (53,17)
+pd
+shiftxy (53,26)
+pu
+shiftxy (53,39)
+pd
+shiftxy (53,49)
+pu
+shiftxy (-32,-22)
+shiftxy (54,19)
+pd
+shiftxy (54,27)
+pu
+shiftxy (54,38)
+pd
+shiftxy (54,47)
+pu
+shiftxy (-32,-23)
+shiftxy (55,22)
+pd
+shiftxy (55,28)
+pu
+shiftxy (55,37)
+pd
+shiftxy (55,43)
+pu
+shiftxy (-32,-24)
+shiftxy (56,24)
+pd
+shiftxy (56,30)
+pu
+shiftxy (56,35)
+pd
+shiftxy (56,42)
+pu
+shiftxy (-32,-25)
+shiftxy (57,24)
+pd
+shiftxy (57,41)
+pu
+shiftxy (-32,-26)
+shiftxy (58,25)
+pd
+shiftxy (58,40)
+pu
+shiftxy (-32,-27)
+shiftxy (59,27)
+pd
+shiftxy (59,38)
+pu
+shiftxy (-32,-28)
+shiftxy (60,29)
+pd
+shiftxy (60,36)
+pu
+shiftxy (-32,-29)
+shiftxy (-32,-30)
+shiftxy (-32,-31)

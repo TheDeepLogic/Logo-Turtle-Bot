@@ -1,0 +1,11409 @@
+shiftxy (1, 1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (6, 0)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (4, 1)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (6, 2)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (-1, 3)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-6, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (4, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-5, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (2, -1)
+pu
+shiftxy (-3, -7)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -7)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (0, 4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-5, 8)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, 4)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 4)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (2, 5)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (0, -1)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (-1, 6)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (0, -1)
+pu
+shiftxy (-3, -7)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-15, -6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, -6)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (2, 2)
+pd
+shiftxy (-4, 4)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -6)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, 13)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, -2)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pu
+shiftxy (5, -4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -6)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (6, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (10, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-2, -3)
+pd
+shiftxy (0, -1)
+pu
+shiftxy (5, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (-3, -1)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (0, -5)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (18, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -4)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 4)
+pd
+shiftxy (4, -5)
+pd
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (-11, 8)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (0, -2)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-2, 4)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (-8, 3)
+pd
+shiftxy (3, 4)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 2)
+pd
+shiftxy (2, -4)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (0, -2)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (0, -3)
+pu
+shiftxy (0, 1)
+pd
+pd
+shiftxy (3, 2)
+pd
+shiftxy (-1, 3)
+pu
+shiftxy (3, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-1, 2)
+pu
+shiftxy (-2, -7)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-4, 0)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 2)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -2)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, -7)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (-4, -7)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-11, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-13, -23)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 2)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (8, 3)
+pd
+shiftxy (8, 3)
+pd
+shiftxy (7, 3)
+pd
+shiftxy (5, 3)
+pu
+shiftxy (-23, 10)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-4, 2)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (-2, -2)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (6, -8)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -9)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (5, 2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (4, -19)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-6, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (0, -2)
+pd
+shiftxy (4, 2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-11, -26)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (-1, 5)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-5, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (1, -1)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (6, 2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-5, 3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -6)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (-13, -31)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -9)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-4, -9)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-29, -12)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-22, -17)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (3, -7)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -6)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -9)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (5, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-6, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, -1)
+pu
+shiftxy (0, -12)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (4, -4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-10, -14)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-12, -18)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, -16)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -4)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-1, 4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -6)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 6)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (7, 11)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, 1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (4, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -14)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (3, 7)
+pu
+shiftxy (-8, -8)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-3, -8)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (-5, -12)
+pd
+shiftxy (-3, -3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (2, 4)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (2, -16)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (4, 4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (1, 1)
+pu
+shiftxy (-8, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 2)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -4)
+pu
+shiftxy (3, -5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (2, -1)
+pu
+shiftxy (9, -5)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (2, 6)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 5)
+pu
+shiftxy (2, 1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (4, -4)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-1, 1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (-3, 4)
+pd
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, -5)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-2, -3)
+pd
+shiftxy (-8, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (-2, -1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 5)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (-1, -1)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (5, -4)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (2, -5)
+pd
+shiftxy (-3, -3)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-5, 3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (-6, 3)
+pd
+shiftxy (0, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (-5, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-4, -3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (1, 4)
+pu
+shiftxy (-2, -2)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (6, 8)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (-18, 5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 1)
+pu
+shiftxy (-9, -13)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, -4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (4, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (3, -5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (3, 4)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (3, 4)
+pu
+shiftxy (-19, -6)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (5, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-5, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-1, -1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (0, -4)
+pd
+shiftxy (5, -2)
+pd
+shiftxy (-2, -2)
+pd
+shiftxy (-2, -3)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-1, -4)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-4, -3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 1)
+pu
+shiftxy (6, 1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (3, -2)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, -4)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (1, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 1)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -10)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (-6, 4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (0, 2)
+pd
+pu
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, 1)
+pu
+shiftxy (2, 2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pu
+shiftxy (-9, 0)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, 4)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (3, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (4, 9)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, -1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (7, 16)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, -6)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-13, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (1, 4)
+pu
+shiftxy (-6, -1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-3, 10)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 15)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, 4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-6, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (-6, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-22, -13)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (7, -2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (5, 1)
+pd
+shiftxy (0, 2)
+pu
+shiftxy (8, -6)
+pd
+shiftxy (-6, -3)
+pd
+shiftxy (-3, -3)
+pu
+shiftxy (-11, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-10, -2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-6, 34)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-37, 6)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-4, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (6, 1)
+pu
+shiftxy (-1, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (4, 2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-4, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (4, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (-3, -2)
+pu
+shiftxy (-1, -5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (6, 7)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, -21)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-4, -12)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-6, -9)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 1)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -10)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-5, -14)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-3, 16)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-3, 2)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-7, -4)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (-1, -4)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (0, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-3, -4)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-2, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (-1, -4)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (-4, 6)
+pd
+shiftxy (-3, 7)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 2)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (0, 5)
+pd
+shiftxy (4, 3)
+pu
+shiftxy (-2, -2)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (2, 3)
+pu
+shiftxy (7, -4)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (0, -6)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 1)
+pd
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (7, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, -5)
+pd
+shiftxy (4, -4)
+pu
+shiftxy (7, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 1)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (-4, 1)
+pu
+shiftxy (1, -7)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, -4)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (5, 0)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (1, -1)
+pu
+shiftxy (5, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, -2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -10)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (2, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -5)
+pu
+shiftxy (-3, 8)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-13, 9)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (5, 3)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (6, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (2, 4)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-6, -2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (4, -7)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, 0)
+pu
+shiftxy (19, 7)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (6, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 2)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -4)
+pu
+shiftxy (8, 12)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-13, -7)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, -2)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (-6, -1)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -1)
+pu
+shiftxy (-21, -22)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-10, -18)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -6)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-4, -6)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -6)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (3, -2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (-5, 5)
+pd
+shiftxy (1, 5)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (5, 3)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (5, 4)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (2, 0)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, -5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (2, -2)
+pu
+shiftxy (0, -5)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (8, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (1, -4)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (0, -2)
+pu
+shiftxy (5, -11)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (-5, 1)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (5, -2)
+pd
+shiftxy (-5, 0)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-5, 4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (-18, -22)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (4, -6)
+pu
+shiftxy (16, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (1, -6)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-5, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-16, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (13, -7)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-2, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-2, -4)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-4, -4)
+pd
+shiftxy (-5, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, -4)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (2, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (3, 4)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (6, 5)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (-3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 1)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (0, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (9, 3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 5)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (1, 4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pu
+shiftxy (4, -2)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-4, -5)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-6, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (5, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (4, 5)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, -1)
+pu
+shiftxy (-11, 17)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pu
+shiftxy (3, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-6, 5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-15, 5)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, -1)
+pu
+shiftxy (-11, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-21, -16)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-6, -14)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-4, 13)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-18, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (4, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (7, 28)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (6, -3)
+pu
+shiftxy (22, -7)
+pd
+shiftxy (9, 3)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-29, -79)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pu
+shiftxy (2, -9)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, -5)
+pd
+shiftxy (3, -6)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (2, 3)
+pu
+shiftxy (-7, -1)
+pd
+shiftxy (-4, 5)
+pd
+shiftxy (-4, 4)
+pu
+shiftxy (3, 5)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-7, -11)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 4)
+pu
+shiftxy (-3, -43)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pu
+shiftxy (4, -8)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -4)
+pu
+shiftxy (4, 7)
+pd
+shiftxy (4, 3)
+pu
+shiftxy (4, -5)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (5, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (5, 1)
+pu
+shiftxy (6, -14)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-2, -1)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-3, -9)
+pd
+shiftxy (-3, -9)
+pd
+shiftxy (-3, -3)
+pu
+shiftxy (-2, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 4)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, -6)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-4, -5)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (7, -1)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-1, -4)
+pd
+shiftxy (-3, -3)
+pu
+shiftxy (1, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -5)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (2, 5)
+pd
+shiftxy (-1, 1)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (4, -2)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (1, -3)
+pu
+shiftxy (4, 1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (-2, -3)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (1, 3)
+pu
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-1, 3)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-9, -1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (5, -2)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (-7, 1)
+pd
+shiftxy (-6, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (3, 6)
+pu
+shiftxy (-7, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -10)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (7, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (-7, -4)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pu
+shiftxy (-1, -8)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-6, -9)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-3, 9)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 8)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, 5)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (4, -5)
+pu
+shiftxy (3, 10)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (-5, -1)
+pd
+shiftxy (-3, -4)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-10, 0)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (7, 3)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (-15, 11)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (0, -4)
+pd
+shiftxy (0, -3)
+pd
+pu
+shiftxy (1, 4)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (-3, 6)
+pd
+shiftxy (-1, 3)
+pu
+shiftxy (16, -2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 2)
+pu
+shiftxy (-31, 6)
+pd
+shiftxy (0, -5)
+pd
+shiftxy (-1, -4)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (0, -3)
+pu
+shiftxy (-10, -6)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, 4)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (2, -4)
+pd
+shiftxy (4, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (2, 1)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-40, -10)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (11, 5)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, -1)
+pu
+shiftxy (-18, -40)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, -4)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 1)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (4, -17)
+pd
+shiftxy (-1, -2)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (3, -9)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (12, 0)
+pd
+shiftxy (-6, 3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (0, 5)
+pu
+shiftxy (6, -19)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-4, -5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-5, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (5, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -11)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 6)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (10, 12)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -15)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-4, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -13)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-5, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (0, -1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (3, 4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -11)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (9, -13)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (8, 6)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (9, -30)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -7)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -4)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -5)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -5)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -5)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-8, -2)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -4)
+pu
+shiftxy (-1, 5)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-2, -5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pu
+shiftxy (3, -5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (4, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (-1, 7)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -16)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-7, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, 7)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, 3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-12, -1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (4, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-4, -4)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, 12)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -4)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-1, -12)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pu
+shiftxy (8, -18)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (2, -5)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (7, -4)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-4, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-8, -2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-4, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (9, 4)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, 2)
+pd
+shiftxy (-5, 2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (3, -7)
+pu
+shiftxy (6, 1)
+pd
+shiftxy (0, -2)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (5, -1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (0, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (2, 0)
+pu
+shiftxy (-22, -106)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (2, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, 1)
+pd
+shiftxy (3, 3)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (0, -3)
+pu
+shiftxy (-3, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -2)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (4, -15)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (2, -1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (1, -1)
+pd
+shiftxy (4, -3)
+pu
+shiftxy (-2, 2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-1, -6)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (2, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, -2)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 3)
+pd
+pd
+shiftxy (5, -6)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-1, 5)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -6)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-1, 1)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-2, -1)
+pd
+shiftxy (-1, -2)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-4, 2)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -4)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (1, -3)
+pd
+shiftxy (2, -1)
+pd
+shiftxy (-1, 2)
+pu
+shiftxy (-8, 5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (4, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (3, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (5, -3)
+pu
+shiftxy (0, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -11)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, 1)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (4, -5)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 2)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-2, 5)
+pu
+shiftxy (-5, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (3, 5)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (-27, -26)
+pd
+shiftxy (-3, 2)
+pu
+shiftxy (-1, 1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (3, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-40, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-6, 4)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (-6, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (1, -4)
+pd
+shiftxy (3, 4)
+pu
+shiftxy (1, -2)
+pd
+shiftxy (-3, -4)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (2, 4)
+pu
+shiftxy (-1, -5)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-1, 4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-13, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, 0)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, 4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-10, -4)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-3, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-3, -5)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (5, 3)
+pd
+shiftxy (5, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (6, 3)
+pd
+shiftxy (5, 1)
+pu
+shiftxy (-4, -4)
+pd
+shiftxy (-2, 1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-1, -2)
+pd
+shiftxy (2, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (2, -2)
+pd
+shiftxy (0, -4)
+pu
+shiftxy (2, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-4, 1)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-5, -3)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, -1)
+pu
+shiftxy (-3, 1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (6, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pu
+shiftxy (26, 1)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (5, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (0, -1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (10, -3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (3, 4)
+pu
+shiftxy (1, 4)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-4, -3)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-5, 0)
+pd
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (1, 3)
+pd
+shiftxy (1, 4)
+pd
+shiftxy (3, 5)
+pu
+shiftxy (-37, 34)
+pd
+shiftxy (-3, -5)
+pd
+shiftxy (-3, -2)
+pu
+shiftxy (-1, 0)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (1, 4)
+pu
+shiftxy (-1, -10)
+pd
+shiftxy (-3, -6)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-12, 14)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-3, -4)
+pu
+shiftxy (-12, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (3, 7)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (-3, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-2, -1)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (2, 2)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (2, -1)
+pu
+shiftxy (-5, 5)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (-6, 3)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (7, -13)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-3, -21)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (4, 0)
+pu
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-12, -9)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-4, 3)
+pu
+shiftxy (-4, -7)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-4, 0)
+pd
+shiftxy (7, 4)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (4, 1)
+pu
+shiftxy (-6, -2)
+pd
+shiftxy (-4, -1)
+pd
+shiftxy (-3, -2)
+pd
+shiftxy (-3, -3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (4, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (1, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-78, -3)
+pd
+shiftxy (-4, 4)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-5, 3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-2, 1)
+pd
+shiftxy (-5, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 5)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (2, -4)
+pu
+shiftxy (-8, -8)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (1, -2)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (-10, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, -3)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (2, -3)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (3, -4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (3, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (1, -3)
+pd
+shiftxy (-3, -4)
+pd
+shiftxy (-3, -1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pu
+shiftxy (0, -2)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (4, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, -3)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-4, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -1)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (11, 6)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (2, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 2)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (3, -7)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (3, -4)
+pd
+shiftxy (3, -5)
+pd
+shiftxy (3, -5)
+pu
+shiftxy (-3, -6)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (-1, -3)
+pd
+shiftxy (-3, 3)
+pu
+shiftxy (0, -1)
+pd
+shiftxy (5, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (-4, -2)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-1, 1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (2, -3)
+pu
+shiftxy (-18, 2)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-7, -1)
+pu
+shiftxy (-1, 4)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (-1, -4)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-2, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, 1)
+pu
+shiftxy (-6, 17)
+pd
+shiftxy (-3, 0)
+pu
+shiftxy (0, 3)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (2, 2)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (4, -5)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, -2)
+pu
+shiftxy (-7, 19)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-3, 2)
+pd
+shiftxy (-3, 1)
+pd
+shiftxy (-3, 0)
+pd
+shiftxy (-3, 1)
+pu
+shiftxy (62, -27)
+pd
+shiftxy (0, -3)
+pd
+shiftxy (2, 0)
+pd
+shiftxy (5, -3)
+pd
+shiftxy (4, -6)
+pu
+shiftxy (-25, -21)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 4)
+pd
+shiftxy (-1, 2)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-2, 4)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-1, 3)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (1, 3)
+pd
+shiftxy (-1, 0)
+pd
+shiftxy (0, 3)
+pd
+shiftxy (-5, 3)
+pd
+shiftxy (-5, 3)
+pd
+shiftxy (-3, 3)
+pd
+shiftxy (-2, 3)
+pd
+shiftxy (-3, 4)
+pd
+shiftxy (-2, 0)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (5, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, 0)
+pu
+shiftxy (-5, -71)
+pd
+shiftxy (3, 3)
+pd
+shiftxy (4, 3)
+pd
+shiftxy (4, 4)
+pd
+shiftxy (1, 0)
+pd
+shiftxy (-2, 2)
+pd
+shiftxy (0, 1)
+pd
+shiftxy (3, 1)
+pd
+shiftxy (4, -3)
+pd
+shiftxy (3, -3)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, -1)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, 0)
+pd
+shiftxy (3, -2)
+pd
+shiftxy (3, -3)
+pu
+shiftxy (114, 94)
+pd
+shiftxy (-4, 3)
+pd
+shiftxy (4, -3)
+pu

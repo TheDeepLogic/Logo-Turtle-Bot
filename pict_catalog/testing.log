@@ -1,0 +1,2 @@
+repeat 5 [square 10 rt 5]
+fd 52
