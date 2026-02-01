@@ -53,8 +53,6 @@ The codebase is organized into several modules:
 - `logo_svg_to_log_converter.py` - SVG to Logo conversion utility
 - `config.txt` - Configuration parameters
 
-![Turtle Side View](media/PXL_20230213_151802286.PORTRAIT.jpg)
-
 ## Usage
 
 Connect to the turtle via Bluetooth serial and type Logo commands as you would on an Apple II:
@@ -68,6 +66,8 @@ Connect to the turtle via Bluetooth serial and type Logo commands as you would o
 ```
 
 The turtle executes commands in real-time, providing textual feedback while physically moving and drawing.
+
+![Turtle Side View](media/PXL_20230213_151802286.PORTRAIT.jpg)
 
 ## About Logo
 
