@@ -1,3 +1,5 @@
+![Logo Turtle Bot](media/logoturtlebot_banner.jpg)
+
 # Logo Turtle Bot
 
 A physical implementation of Krell MIT Logo from the Apple II, brought to life in a 3D-printed turtle robot powered by a Raspberry Pi Pico.
