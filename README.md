@@ -4,8 +4,6 @@
 
 A physical implementation of Krell MIT Logo from the Apple II, brought to life in a 3D-printed turtle robot powered by a Raspberry Pi Pico.
 
-![Turtle Bot](media/PXL_20230224_003307271.jpg)
-
 > **AI-Assisted Documentation Notice**
 > 
 > Hello, fellow human! My name is Aaron Smith. I've been in the IT field for nearly three decades and have extensive experience as both an engineer and architect. While I've had various projects in the past that have made their way into the public domain, I've always wanted to release more than I could. I write useful utilities all the time that aid me with my vintage computing and hobbyist electronic projects, but rarely publish them. I've had experience in both the public and private sectors and can unfortunately slip into treating each one of these as a fully polished cannonball ready for market. It leads to scope creep and never-ending updates to documentation.
@@ -30,6 +28,7 @@ The turtle is a fully functional Logo interpreter housed in a turtle-shaped 3D-p
 - **Shell**: 3D-printed turtle design
 
 ![Turtle Side View](media/PXL_20230213_151802286.PORTRAIT.jpg)
+![Turtle Bot](media/PXL_20230224_003307271.jpg)
 
 ## Features
 
