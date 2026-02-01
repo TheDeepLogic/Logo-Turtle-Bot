@@ -27,7 +27,6 @@ The turtle is a fully functional Logo interpreter housed in a turtle-shaped 3D-p
 - **Wireless**: HC-05 Bluetooth module for serial communication
 - **Shell**: 3D-printed turtle design
 
-![Turtle Side View](media/PXL_20230213_151802286.PORTRAIT.jpg)
 ![Turtle Bot](media/PXL_20230224_003307271.jpg)
 
 ## Features
@@ -53,6 +52,8 @@ The codebase is organized into several modules:
 - `logo_terminal.py` - Terminal interface handling
 - `logo_svg_to_log_converter.py` - SVG to Logo conversion utility
 - `config.txt` - Configuration parameters
+
+![Turtle Side View](media/PXL_20230213_151802286.PORTRAIT.jpg)
 
 ## Usage
 
